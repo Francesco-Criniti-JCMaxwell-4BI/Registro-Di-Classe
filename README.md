@@ -8,14 +8,23 @@ ________________________________________
 ________________________________________
 ________________________________________
 ________________________________________
-Manuale d'uso: Si presenterà un interfaccia in cui bisognerà inserire Username e Password identificativi per poter accedere al rispettivo account. Una volta effettuato l'accesso, in anteprima si potrà visualizzare tutte le rispettive informazioni Per poter cambiare la password bisognerà andare sulle info del programma. Caso mai questo non fosse possibile, dovrete contattare uno degli amministratori.
+Manuale d'uso: Si presenterà un interfaccia in cui bisognerà inserire Username e Password identificativi per poter accedere al rispettivo account. Una volta effettuato l'accesso, in anteprima si potrà visualizzare tutte le rispettive informazioni Per poter cambiare la password bisognerà andare sulle info del programma. 
+
+Caso mai questo non fosse possibile, dovrete contattare uno degli amministratori.
 Autori:
+
 •	Vladian Nicu Diac
+
 •	Ahmed Khattab
+
 •	Francesco Criniti
+
 •	Raffaele Santoro
+
 Ringraziamenti:
 Ringraziamo la classe 4Binfo per averci scelto
+
 p.s: Se abbiamo dimenticato qualcosa Vi preghiamo di dircelo.
+
 Definizioni*: DataBase: informatica, archivio di dati strutturato in modo da razionalizzare la gestione e l'aggiornamento delle informazioni e da permettere lo svolgimento di ricerche complesse. Net Framework: Il .NET Framework è la parte centrale della tecnologia .NET di Microsoft. È l'ambiente per la creazione, la distribuzione e l'esecuzione di tutti gli applicativi che supportano .NET, siano essi Servizi Web o altre applicazioni. Software: In informatica, l'insieme delle procedure e delle istruzioni in un sistema di elaborazione dati; si identifica con un insieme di programmi (in contrapposizione a hardware ) Log-in: Accesso
 
