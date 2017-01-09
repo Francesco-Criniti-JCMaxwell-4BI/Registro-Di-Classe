@@ -1,5 +1,4 @@
 # Registro-Di-Classe
-# Registro
 
 
 
