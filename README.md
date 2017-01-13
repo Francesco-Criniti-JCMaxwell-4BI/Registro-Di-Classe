@@ -9,7 +9,7 @@ Il programma verrà installato su il computer centrale della classe e potrà ess
 Manuale d'uso: 
 Si presenterà un interfaccia in cui bisognerà inserire Username e Password identificativi per poter accedere al rispettivo account. Una volta effettuato l'accesso, in anteprima si potrà visualizzare tutte le rispettive informazioni Per poter cambiare la password bisognerà andare sulle info del programma. 
 
-_Caso mai questo non fosse possibile, dovrete contattare uno degli amministratori.
+Caso mai questo non fosse possibile, dovrete contattare uno degli amministratori.
 
 Autori:
 
