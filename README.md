@@ -4,7 +4,7 @@
 
 
 •	Istruzioni d'uso:
-Il programma verrà installato su il computer centrale della classe e potrà essere copiato e usato anche su altri dispositivi. Per poterlo utilizzare bisognerà avere installato sul proprio computer la versione di Net Framework* più aggiornata per poter utilizzare al meglio il Sw. Bisognerà disporre di una connessione internet e di un computer che supporti SF in ambiente JAVA.
+Il programma verrà installato su il computer centrale della classe e potrà essere copiato e usato anche su altri dispositivi. Per poterlo utilizzare bisognerà avere installato sul proprio computer la versione di Net Framework* più aggiornata per poter utilizzare al meglio il Sw. Bisognerà disporre di un computer che supporti SF in ambiente JAVA.
 
 Manuale d'uso: 
 Si presenterà un interfaccia in cui bisognerà inserire Username e Password identificativi per poter accedere al rispettivo account. Una volta effettuato l'accesso, in anteprima si potrà visualizzare tutte le rispettive informazioni Per poter cambiare la password bisognerà andare sulle info del programma. 
@@ -23,8 +23,6 @@ Autori:
 
 Ringraziamenti:
 Ringraziamo la classe 4Binfo per averci scelto
-
-_ P.S: Se abbiamo dimenticato qualcosa Vi preghiamo di dircelo.
 
 Definizioni*:
 DataBase: informatica, archivio di dati strutturato in modo da razionalizzare la gestione e l'aggiornamento delle informazioni e da permettere lo svolgimento di ricerche complesse. 
