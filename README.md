@@ -4,7 +4,13 @@
 
 
 •	Istruzioni d'uso:
-Il programma verrà installato su il computer centrale della classe e potrà essere copiato e usato anche su altri dispositivi. Per poterlo utilizzare bisognerà avere installato sul proprio computer la versione di Net Framework* più aggiornata per poter utilizzare al meglio il Sw. Bisognerà disporre di un computer che supporti SF in ambiente JAVA.
+Il programma verrà installato su il computer centrale della classe.
+Dovranno essere salvati sul computer i Database che però non saranno accessibili.
+Per effettuare l'accesso al proprio registro bisognerà inserire le proprie credenziali di default che verranno fornite assieme al programma e che potranno essere modicicate al primo accesso.
+
+
+•	Prerequisiti
+Per poterlo utilizzare bisognerà avere installato sul proprio computer la versione di Net Framework* più aggiornata per poter utilizzare al meglio il Sw. Bisognerà disporre di un computer che supporti SF in ambiente JAVA.
 
 Manuale d'uso: 
 Si presenterà un interfaccia in cui bisognerà inserire Username e Password identificativi per poter accedere al rispettivo account. Una volta effettuato l'accesso, in anteprima si potrà visualizzare tutte le rispettive informazioni Per poter cambiare la password bisognerà andare sulle info del programma. 
