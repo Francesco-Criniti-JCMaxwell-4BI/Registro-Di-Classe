@@ -5,7 +5,9 @@
 
 # Istruzioni d'uso:
 • Il programma verrà installato su il computer centrale della classe.
+
 • Dovranno essere salvati sul computer i Database che però non saranno accessibili.
+
 • Per effettuare l'accesso al proprio registro bisognerà inserire le proprie credenziali di default che verranno fornite assieme   al programma e che potranno essere modicicate al primo accesso.
 
 
