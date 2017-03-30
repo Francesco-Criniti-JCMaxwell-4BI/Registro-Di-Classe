@@ -6,7 +6,7 @@
 # Istruzioni d'uso:
 • Il programma verrà installato su il computer centrale della classe.
 
-• Dovranno essere salvati sul computer i Database che però non saranno accessibili.
+• Dovranno essere salvati sul computer i File che verranno usati come Database che però non saranno accessibili.
 
 • Per effettuare l'accesso al proprio registro bisognerà inserire le proprie credenziali di default che verranno fornite assieme   al programma e che potranno essere modicicate al primo accesso.
 
@@ -32,13 +32,15 @@ Caso mai questo non fosse possibile, dovrete contattare uno degli amministratori
 •	Raffaele Santoro
 
 # Ringraziamenti:
-• Ringraziamo la classe 4Binfo per averci scelto
+• Ringraziamo la classe 4Binfo per averci scelto.
 
 # Definizioni*:
 • DataBase: informatica, archivio di dati strutturato in modo da razionalizzare la gestione e l'aggiornamento delle informazioni   e da permettere lo svolgimento di ricerche complesse. 
 
 • Net Framework: Il .NET Framework è la parte centrale della tecnologia .NET di Microsoft. È l'ambiente per la creazione, la       distribuzione e l'esecuzione di tutti gli applicativi che supportano .NET, siano essi Servizi Web o altre applicazioni. 
 
-• Software: In informatica, l'insieme delle procedure e delle istruzioni in un sistema di elaborazione dati; si identifica con     un insieme di programmi (in contrapposizione a hardware ) 
+• Software: In informatica, l'insieme delle procedure e delle istruzioni in un sistema di elaborazione dati; si identifica con     un insieme di programmi (in contrapposizione a hardware ). 
 
-• Log-in: Accesso
+• Log-in: Accesso.
+
+• File: semplici documenti di testo (.txt) che verranno usati come Database. 
