@@ -17,13 +17,13 @@
 # Manuale d'uso: 
 • Si presenterà un interfaccia in cui bisognerà inserire Username e Password identificativi per poter accedere al rispettivo       account.
 
-• Una volta effettuato l'accesso, in anteprima si potrà visualizzare tutte le rispettive informazioni Per poter cambiare la       password bisognerà andare sulla sezzione apposita del programma. 
+• Una volta effettuato l'accesso, in anteprima si potrà visualizzare tutte le rispettive informazioni Per poter cambiare la       password bisognerà andare sulla sezione apposita del programma. 
 
 Caso mai questo non fosse possibile, dovrete contattare uno degli amministratori.
 
 •Lo studente tramite ricerca per data, potrà trovare i compiti assegnati nella rispettiva giornata. Visualizzerà un interfaccia di anteprima in cui potrà vedere i propri voti di ciascuna materia. E una sezione dedicata in cui vedere le proprie info personali.
 
-•Il professore invece una volta effettuato l'accesso, tramite ricerca per nome e cognome,m potrà accedere alla sezione privata dello studente rispettivo, in cui potrà visualizzare le sue informazioni e aggiungere voti, per ogni materia. Tramite la sezzione compiti, potrà assegnare i compiti alla classe, specificando la data e la materia di appartenenza. In tal modo che come detto prima, lo studente potrà in seguito cercare e visualizzare i compiti rispettivi in quella giornata e di quella materia.
+•Il professore invece una volta effettuato l'accesso, tramite ricerca per nome e cognome, potrà accedere alla sezione privata dello studente rispettivo, in cui potrà visualizzare le sue informazioni e aggiungere voti, per ogni materia. Tramite la sezione compiti, potrà assegnare i compiti alla classe, specificando la data e la materia di appartenenza. In tal modo che come detto prima, lo studente potrà in seguito cercare e visualizzare i compiti rispettivi in quella giornata e di quella materia.
 
 # Autori:
 
@@ -45,3 +45,5 @@ Caso mai questo non fosse possibile, dovrete contattare uno degli amministratori
 • Log-in: Accesso.
 
 • File: semplici documenti di testo (.txt) che verranno usati come Database dal programma. 
+
+• DataBase: informatica, archivio di dati strutturato in modo da razionalizzare la gestione e l'aggiornamento delle informazioni e da permettere lo svolgimento di ricerche complesse.
